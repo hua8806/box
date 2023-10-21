@@ -19,7 +19,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/OpenSpider.jar"
+      "jar": "./lib/box/OpenSpider.jar"
     },
     {
       "key": "XBPQ_葡萄",
@@ -40,7 +40,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/短剧网.js"
+      "ext": "./lib/box/短剧网.js"
     },
     {
       "key": "每在影视",
@@ -68,7 +68,7 @@
       "key": "Czsapp",
       "name": "1080P站-B",
       "type": 3,
-      "jar": "./lib/uyv0t678c488189af47bb91dc108484d17431.jar;md5;9c19e5e073a7f0bd30fed7305fe1bfba",
+      "jar": "./lib/box/uyv0t678c488189af47bb91dc108484d17431.jar;md5;9c19e5e073a7f0bd30fed7305fe1bfba",
       "api": "csp_Czsapp",
       "playerType": 2,
       "searchable": 1,
@@ -84,7 +84,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/nongmin.js"
+      "ext": "./lib/box/nongmin.js"
     },
     {
       "key": "me_qq",
@@ -163,7 +163,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
-      "jar": "./lib/xry.jar"
+      "jar": "./lib/box/xry.jar"
     },
     {
       "key": "PanSou",
