@@ -33,6 +33,16 @@
       }
     },
     {
+      "key": "js_DJ5",
+      "name": "🎦┃短剧┃DJ5",
+      "type": 3,
+      "api": "./lib/apiv2056drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/短剧网.js"
+    },
+    {
       "key": "每在影视",
       "name": "火狐┃影视",
       "type": 1,
