@@ -22,6 +22,21 @@
       "jar": "./lib/OpenSpider.jar"
     },
     {
+      "key": "每在影视",
+      "name": "火狐┃影视",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
+    },
+    {
       "key": "drpy_js_两个BT",
       "name": "1080P站-A",
       "type": 3,
