@@ -34,7 +34,7 @@
     },
     {
       "key": "js_DJ5",
-      "name": "🎦┃短剧┃DJ5",
+      "name": "短剧┃DJ5",
       "type": 3,
       "api": "./lib/apiv2056drpy2.js",
       "searchable": 1,
@@ -66,7 +66,7 @@
     },
     {
       "key": "Czsapp",
-      "name": "1080站-B",
+      "name": "1080P站-B",
       "type": 3,
       "jar": "./lib/uyv0t678c488189af47bb91dc108484d17431.jar;md5;9c19e5e073a7f0bd30fed7305fe1bfba",
       "api": "csp_Czsapp",
@@ -78,7 +78,7 @@
     },
     {
       "key": "js_农民",
-      "name": "👨‍🌾┃农民┃2K",
+      "name": "1080P站-C",
       "type": 3,
       "api": "./lib/apiv19drpy2.min.js",
       "searchable": 1,
