@@ -12,6 +12,16 @@
       "filterable": 0
     },
     {
+      "key": "yqkan_open",
+      "name": 短剧┃2K",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./lib/OpenSpider.jar"
+    },
+    {
       "key": "drpy_js_两个BT",
       "name": "1080P站-A",
       "type": 3,
