@@ -56,6 +56,16 @@
       "ext": "https://www.czz9.com/"
     },
     {
+      "key": "js_农民",
+      "name": "👨‍🌾┃农民┃2K",
+      "type": 3,
+      "api": "./lib/apiv19drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/nongmin.js"
+    },
+    {
       "key": "me_qq",
       "name": "1080P站-D",
       "type": 1,
