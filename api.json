@@ -99,6 +99,9 @@
       "name":"🚛玩偶┃T4",
       "type":4,
       "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1},
     {
       "key": "yc",
       "name": "4KHDR站-B",
