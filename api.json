@@ -28,23 +28,21 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/两个BT.js"
     },
-    {"key":"农民影视",
+    {
+      "key":"农民影视",
       "name":"1080P站-B",
       "type":3,
       "api":"csp_XBPQ",
       "searchable":1
       ,"quickSearch":1,
       "filterable":1,
-      "ext":"./lib/nongmin.json"},
-    {
-      "key": "js_农民",
-      "name": "1080P站-C",
-      "type": 3,
-      "api": "./lib/box/apiv19drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/box/nongmin.js"
+      "ext":"./lib/nongmin.json"
+    },
+    {"key":"荐片",
+      "name":"1080p站-C",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./lib/jianpian.js"
     },
     {
       "key": "me_qq",
